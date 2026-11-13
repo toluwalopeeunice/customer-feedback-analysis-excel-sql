@@ -61,9 +61,10 @@ Positive feedback was defined as a rating of 4 or 5, calculated as a percentage 
 
 ## Project Files
 
-- `customer_feedback_analysis.sql` — SQL queries used for the analysis.
-- Excel cleaning workbook — prepared locally; public release subject to privacy review.
-- Final analysis report — prepared separately.
+- [Excel Portfolio Workbook](CUSTOMER%20FEEDBACK%20ANALYSIS%20PORTFOLIO.xlsx) — Excel data cleaning, validation, and documentation.
+- [SQL Analysis](customer_feedback_analysis.sql) — 14 SQL queries used to calculate KPIs and explore customer feedback patterns.
+- [Full Analysis Report](ANALYSIS_REPORT.md) — Detailed methodology, findings, business recommendations, and limitations.
+- [README](README.md) — Project overview and key findings.
 
 ## Limitations
 
